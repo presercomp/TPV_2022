@@ -1,0 +1,8 @@
+.content-wrapper {
+    margin-left: 0 !important;
+}
+
+.small-box { 
+    min-height: 100px;
+    cursor: pointer;
+}
